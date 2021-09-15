@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kajirahul
 - 👀 I’m interested in full stack development. 
-- 🌱 I’m currently learning JavaScript, node.js, and angular.
+- 🌱 Currently associated with IPKeys Power Partners as database Integrator.
 
 <!---
 kajirahul/kajirahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
